@@ -1,0 +1,12 @@
+{
+  "name": "lap01-ci-demo",
+  "version": "1.0.0",
+  "description": "Demo project with GitHub Actions CI",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest --runInBand"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
